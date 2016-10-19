@@ -21,6 +21,8 @@ diagram
 
 <img src="https://github.com/koson/OOAD-WEEK09/blob/master/Homework/usecase1.png?raw=true">
 
+
+###usecase 2
 code
 ```
 @startuml
