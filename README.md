@@ -3,7 +3,6 @@
  
 ###usecase 1
 code
-
 ```
 @startuml
 
@@ -22,3 +21,16 @@ diagram
 
 <img src="https://github.com/koson/OOAD-WEEK09/blob/master/Homework/usecase1.png?raw=true">
 
+code
+```
+@startuml
+
+left to right direction
+actor --> (login)
+
+@enduml
+```
+
+
+diagram
+<img src = "https://github.com/koson/OOAD-WEEK09/blob/master/Homework/usecase2.png?raw=true">
